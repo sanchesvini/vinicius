@@ -2,7 +2,7 @@
 
 ### Olá a todos! 👋
 
-Sou apaixonado por tecnologia em geral, meu foco atualmente é ser um programador web. 
+Sou apaixonado por tecnologia em geral, meu foco atualmente é ser um programador web full-stack. 
 
 </br> 📚 | Acadêmico em TI no Istituto Federal do Paraná. 
 </br> 💻 | Iniciante em desenvolvimento web.
